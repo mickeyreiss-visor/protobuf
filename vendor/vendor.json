@@ -130,6 +130,12 @@
 			"revisionTime": "2016-06-17T11:13:52+02:00"
 		},
 		{
+			"checksumSHA1": "RNSh5A+eMLvpb36czti5+wfm4wA=",
+			"path": "github.com/gogo/protobuf/protoc-gen-gogo",
+			"revision": "30cf7ac33676b5786e78c746683f0d4cd64fa75b",
+			"revisionTime": "2018-05-09T16:24:41Z"
+		},
+		{
 			"checksumSHA1": "cvsx+uUCoGVtl84gvhxdpQ7gzwA=",
 			"path": "github.com/gogo/protobuf/protoc-gen-gogo/descriptor",
 			"revision": "2752d97bbd91927dd1c43296dbf8700e50e2708c",
