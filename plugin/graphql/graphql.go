@@ -3,12 +3,13 @@ package graphql
 import (
 	"bytes"
 	"fmt"
-	"github.com/gogo/protobuf/protoc-gen-gogo/descriptor"
-	"github.com/gogo/protobuf/protoc-gen-gogo/generator"
-	"github.com/opsee/protobuf/opseeproto"
 	"strconv"
 	"strings"
 	"unicode"
+
+	"github.com/gogo/protobuf/protoc-gen-gogo/descriptor"
+	"github.com/gogo/protobuf/protoc-gen-gogo/generator"
+	"github.com/opsee/protobuf/opseeproto"
 )
 
 const opseeTypes = "opsee_types"
@@ -231,9 +232,9 @@ func (p *graphql) Generate(file *generator.FileDescriptor) {
 		}
 		p.Out()
 		p.P(`},`)
-		p.P(`ResolveType: func (value interface{}, info `, graphQLPkg.Use(), `.ResolveInfo) *`, graphQLPkg.Use(), `.Object {`)
+		p.P(`ResolveType: func (p `, graphQLPkg.Use(), `.ResolveTypeParams) *`, graphQLPkg.Use(), `.Object {`)
 		p.In()
-		p.P(`switch value.(type) {`)
+		p.P(`switch p.Value.(type) {`)
 		for _, field := range oo.fields {
 			obj := p.ObjectNamed(field.GetTypeName())
 			fname := generator.CamelCase(field.GetName())
