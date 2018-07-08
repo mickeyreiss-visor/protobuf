@@ -190,68 +190,70 @@
 			"revisionTime": "2018-06-22T17:40:09Z"
 		},
 		{
-			"checksumSHA1": "ftnii31JY1Sbvq+qLECUUObVPvM=",
+			"checksumSHA1": "NACjRrbl9gn91+SmasCKf0J3YCg=",
 			"path": "github.com/graphql-go/graphql",
-			"revision": "909ca9f800e7ab67307b4f9f1d56394346acb33c",
-			"revisionTime": "2016-03-18T15:58:50+08:00"
+			"revision": "2f78272077f451aa76a859dbe13e16b53bf5008f",
+			"revisionTime": "2018-07-02T17:26:57Z"
 		},
 		{
-			"checksumSHA1": "aX0asXhgyOKzCd9Gqp+h998xFGg=",
+			"checksumSHA1": "/g29kXS7NodmiYAPKeIyEXYYI+g=",
 			"path": "github.com/graphql-go/graphql/gqlerrors",
-			"revision": "909ca9f800e7ab67307b4f9f1d56394346acb33c",
-			"revisionTime": "2016-03-18T15:58:50+08:00"
+			"revision": "2f78272077f451aa76a859dbe13e16b53bf5008f",
+			"revisionTime": "2018-07-02T17:26:57Z"
 		},
 		{
-			"checksumSHA1": "aB9vx/Lo7Dws+MVtf85iB9ocMOI=",
+			"checksumSHA1": "kkCqu4ytw4xtVuzPn4GhtYPfhLo=",
 			"path": "github.com/graphql-go/graphql/language/ast",
-			"revision": "909ca9f800e7ab67307b4f9f1d56394346acb33c",
-			"revisionTime": "2016-03-18T15:58:50+08:00"
+			"revision": "2f78272077f451aa76a859dbe13e16b53bf5008f",
+			"revisionTime": "2018-07-02T17:26:57Z"
 		},
 		{
-			"checksumSHA1": "P+LfyuvYUpoTTeBirloKM7/MeSg=",
+			"checksumSHA1": "FNFpZJ07U5Ud3MCc25ast14qVbo=",
 			"path": "github.com/graphql-go/graphql/language/kinds",
-			"revision": "909ca9f800e7ab67307b4f9f1d56394346acb33c",
-			"revisionTime": "2016-03-18T15:58:50+08:00"
+			"revision": "2f78272077f451aa76a859dbe13e16b53bf5008f",
+			"revisionTime": "2018-07-02T17:26:57Z"
 		},
 		{
-			"checksumSHA1": "sKKWECBHmhNynFIpOFJR/Q/4Gy8=",
+			"checksumSHA1": "SWUDhHsPbOew7jatIHI68oLtwRE=",
 			"path": "github.com/graphql-go/graphql/language/lexer",
-			"revision": "909ca9f800e7ab67307b4f9f1d56394346acb33c",
-			"revisionTime": "2016-03-18T15:58:50+08:00"
+			"revision": "2f78272077f451aa76a859dbe13e16b53bf5008f",
+			"revisionTime": "2018-07-02T17:26:57Z"
 		},
 		{
-			"checksumSHA1": "U7nRNcNjHkeOBs3SmLbSZZIbtOE=",
+			"checksumSHA1": "yskrC6tG5BTJdIk4GKHzGTenQOc=",
 			"path": "github.com/graphql-go/graphql/language/location",
-			"revision": "909ca9f800e7ab67307b4f9f1d56394346acb33c",
-			"revisionTime": "2016-03-18T15:58:50+08:00"
+			"revision": "2f78272077f451aa76a859dbe13e16b53bf5008f",
+			"revisionTime": "2018-07-02T17:26:57Z"
 		},
 		{
-			"checksumSHA1": "/RxRi3maF72tV2Bqrcwgv/bsy4k=",
+			"checksumSHA1": "FIMaSoAa/BfubptBg+tA+UR7G9w=",
 			"path": "github.com/graphql-go/graphql/language/parser",
-			"revision": "909ca9f800e7ab67307b4f9f1d56394346acb33c",
-			"revisionTime": "2016-03-18T15:58:50+08:00"
+			"revision": "2f78272077f451aa76a859dbe13e16b53bf5008f",
+			"revisionTime": "2018-07-02T17:26:57Z"
 		},
 		{
-			"checksumSHA1": "jrfGEXCfqz7/ypi1crmhdyC16QQ=",
+			"checksumSHA1": "FogA33N8e9PdrBTHKBxYkfRskfw=",
 			"path": "github.com/graphql-go/graphql/language/printer",
-			"revision": "909ca9f800e7ab67307b4f9f1d56394346acb33c",
-			"revisionTime": "2016-03-18T15:58:50+08:00"
+			"revision": "2f78272077f451aa76a859dbe13e16b53bf5008f",
+			"revisionTime": "2018-07-02T17:26:57Z"
 		},
 		{
-			"checksumSHA1": "l573EEYY28hrbjM8yJOY1BAKCNE=",
+			"checksumSHA1": "dRrl/Ky/0NTYA3bZznpxp4tG5Jc=",
 			"path": "github.com/graphql-go/graphql/language/source",
-			"revision": "909ca9f800e7ab67307b4f9f1d56394346acb33c",
-			"revisionTime": "2016-03-18T15:58:50+08:00"
+			"revision": "2f78272077f451aa76a859dbe13e16b53bf5008f",
+			"revisionTime": "2018-07-02T17:26:57Z"
 		},
 		{
-			"checksumSHA1": "XdbaPA0GmDwkGW6IepvL/pvMrXE=",
+			"checksumSHA1": "f62XVj7So29WO/HJC6znxHbbeTs=",
+			"path": "github.com/graphql-go/graphql/language/typeInfo",
+			"revision": "2f78272077f451aa76a859dbe13e16b53bf5008f",
+			"revisionTime": "2018-07-02T17:26:57Z"
+		},
+		{
+			"checksumSHA1": "QsX5y9q+2gfEIp0Ohm8EdEqJLDA=",
 			"path": "github.com/graphql-go/graphql/language/visitor",
-			"revision": "909ca9f800e7ab67307b4f9f1d56394346acb33c",
-			"revisionTime": "2016-03-18T15:58:50+08:00"
-		},
-		{
-			"path": "github.com/graphql-go/graphql:909ca9f800e7ab67307b4f9f1d56394346acb33c",
-			"revision": ""
+			"revision": "2f78272077f451aa76a859dbe13e16b53bf5008f",
+			"revisionTime": "2018-07-02T17:26:57Z"
 		},
 		{
 			"checksumSHA1": "zKKp5SZ3d3ycKe4EKMNT0BqAWBw=",
